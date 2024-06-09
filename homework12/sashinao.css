@@ -1,0 +1,33 @@
+.cards {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+.cards2 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+.footer-div {
+    display: flex;
+    justify-content: space-evenly;
+
+    background-color: rgb(255, 208, 0);
+    padding: 10px;
+    color: rgb(14, 15, 13);
+    position: relative;
+    top: 117px;
+    
+}
+
+
+
+.footer-div a {
+    color: inherit;
+    text-decoration: inherit;
+    
+

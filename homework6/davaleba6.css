@@ -1,0 +1,190 @@
+span {
+    color: rgb(255, 208, 0);
+}
+
+img {
+    height: 190px;
+    width: 190px;
+}
+body {
+    background-color:aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color:rgb(255, 208, 0) ;
+}
+
+p {
+    color: rgb(90, 94, 98);
+}
+
+
+
+
+.container{
+display:flex ;
+flex-wrap: wrap;
+justify-content: center;
+
+justify-content: space-evenly;
+}
+
+
+.card1 {
+    
+    align-items: center;
+    text-align:center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    
+   
+
+}
+
+
+
+.card2 {
+    align-items: center;
+    text-align:center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+
+.card3 {
+    align-items: center;
+    text-align:center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+
+
+
+
+
+
+
+.card1:hover {
+    width: 270px;
+    height: 280px;
+    background-color: #eaa50492;
+    color: #fff;
+    text-align: center;
+    
+    transition: background-color 0.5s ease;
+}
+
+ 
+
+
+.card2:hover {
+    width: 270px;
+    height: 280px;
+    background-color: #eaa50492;;
+    color: #fff;
+    text-align: center;
+    
+    transition: background-color 0.5s ease;
+}
+
+.card3:hover {
+    width: 270px;
+    height: 280px;
+    background-color: #eaa50492;
+    color: #fff;
+    text-align: center;
+    
+    transition: background-color 0.5s ease;
+}
+
+.container2 {
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    justify-content: space-evenly;
+}
+
+.card4 {
+    width: 200px;
+    align-items: center;
+    text-align:center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+
+
+.card5 {
+    width: 200px;
+    align-items: center;
+    text-align:center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+   
+}
+
+
+.card6 {
+    
+    width: 200px;
+    align-items: center;
+    text-align:center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+
+.card4:hover {
+    width: 270px;
+    height: 280px;
+    background-color: #eaa50492;
+    color: #fff;
+    text-align: center;
+    
+    transition: background-color 0.5s ease;
+}
+
+.card5:hover {
+    width: 270px;
+    height: 280px;
+    background-color: #eaa50492;
+    color: #fff;
+    text-align: center;
+    
+    transition: background-color 0.5s ease;
+}
+
+.card6:hover {
+    width: 270px;
+    height: 280px;
+    background-color: #eaa50492;
+    color: #fff;
+    text-align: center;
+    
+    transition: background-color 0.5s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

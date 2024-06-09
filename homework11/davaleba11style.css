@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+
+
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1557626204-59dd03fd2d31?auto=format&fit=crop&q=80&w=2670&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+
+  width: 1280px;
+  
+}
+
+
+h1  {
+    color: white;
+
+    
+}
+
+
+p {
+    color: black;
+    width:500px ;
+    text-align: center;
+    
+    background-color:rgba(255, 255, 255, 0.859) ;
+border: 3px solid rgb(17, 107, 185);
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+
+
+input {
+    display: grid;
+    width: 250px;
+    
+}
+
+
+.main-input {
+    position: relative;
+    left:270px;
+    bottom:100px ; 
+    height:94px ;
+    background-color:rgba(255, 255, 255, 0.859) ;
+    border-color: rgb(17, 107, 185);
+    border-radius: 10px;
+    
+
+    
+}
+
+.main-input::placeholder {
+    color: black;
+    align-items: baseline;
+
+}
+
+input::placeholder {
+    color: black;
+}
+
+
+
+.container {
+    position: absolute;
+left:640px ;
+    
+}
+
+ 
+.input1 {
+    background-color:rgba(255, 255, 255, 0.859)  ;
+border-color: rgb(17, 107, 185) ;
+    border-radius: 5px;
+    padding:;
+}
+
+.input1:hover {
+    border-color: rgba(0, 255, 255, 0.269);
+}
+
+
+.main-input:hover {
+    border-color: rgba(0, 255, 255, 0.269);
+}
+
+
+
+p:hover {
+    border-color: rgba(0, 255, 255, 0.269);
+}
+
+
+button {
+
+position: relative;
+bottom: 90px;
+left: 270px;
+padding: 5px;
+width: 70px;
+background-color: rgba(0, 0, 0, 0.704);
+color: white;
+border: none;
+border-radius: 10px;
+}

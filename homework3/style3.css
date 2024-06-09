@@ -1,0 +1,50 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: groove 11px rgb(198, 16, 218) ;
+    border-radius: 20%;
+    background-image: url(https://wallpapercave.com/wp/wp1828942.png);
+    box-sizing: content-box;
+    padding: 140px;
+    color: aliceblue;
+    
+    margin: 20em;
+    text-decoration:dotted;
+    font-family: 'Dancing Script', cursive;
+
+   
+}
+
+
+
+h1 {
+    text-shadow: 4px 4px #ab2ca0;
+    
+}
+
+
+#gad1 {
+font-size: 1em;
+
+}
+
+body {
+    background-image: url(https://shorturl.at/jpC26) ;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+
+
+p {
+    border: 5px ridge #410a7486;
+    width:100em ;
+    text-align: center;
+    padding: 20px ;
+    background-color: #80487c3e;
+    
+}
+
+span {
+background-color: #9873bbcd;
+color: aliceblue;
+}

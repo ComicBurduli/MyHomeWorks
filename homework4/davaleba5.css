@@ -1,0 +1,47 @@
+.topnav1 {
+border: 1px solid white;
+border-radius: 20px;
+background-color: rgba(0, 0, 0, 0.605) ;
+height: 300px;
+width: 500px;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Dela Gothic One', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Pixelify Sans', sans-serif;
+font-family: 'Young Serif', serif;
+margin: 80px;
+
+
+}
+
+
+.topnav {
+background-color: rgba(0, 248, 66, 0.673);
+border: hidden;
+border-radius: 10px;
+width: 250px;
+
+}
+
+
+#header1 {
+    color: rgb(30, 157, 157);
+    
+}
+
+.saba12 { 
+    font-size: 32px;
+    background-color: rgba(255, 255, 255, 0.751);
+    border: 3px solid rgb(0, 230, 77);
+    border-radius: 10px;
+    width:250px ;
+    padding: 5px;
+
+
+}
+
+
+
+
+
